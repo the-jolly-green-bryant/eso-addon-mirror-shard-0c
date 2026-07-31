@@ -1,0 +1,38 @@
+{
+  "archive_path": "addons/napalmskull/Criminal__3765",
+  "archive_repository": "the-jolly-green-bryant/eso-addon-mirror-shard-0c",
+  "archived": true,
+  "author": "napalmskull",
+  "canonical_id": "esoui:3765",
+  "category_id": "159",
+  "compatibility": [
+    {
+      "name": "Endless Archive",
+      "version": "9.2.5"
+    }
+  ],
+  "content_id": "esoui:3765",
+  "deleted": false,
+  "directories": [
+    "Criminal"
+  ],
+  "download_url": "https://www.esoui.com/downloads/dl3765/",
+  "fingerprint": "41bdd79abc397e937823a45cf92a9d1fb20a7bac38250df1d0877b056bf2a331",
+  "images": [
+    "https://cdn-eso.mmoui.com/preview/pvw12759.png"
+  ],
+  "platform": "pc",
+  "published": true,
+  "shard": "0c",
+  "source": "esoui",
+  "source_id": "3765",
+  "source_url": "https://www.esoui.com/downloads/info3765-Criminal.html",
+  "stats": {
+    "downloads": 1592,
+    "favorites": 0,
+    "monthly_downloads": 9
+  },
+  "title": "Criminal",
+  "updated_at": 1706051484000,
+  "version": "1.0.1"
+}
